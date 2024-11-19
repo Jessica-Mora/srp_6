@@ -67,7 +67,7 @@ namespace Full_GRASP_And_SOLID
             return result;
         }
 
-        public int GetCookTime()
+        public int GetCookTime() //SRP porque asigna la responsabilidad a la clase que contiene ,a informacion
         {
             int total_time = 0;
             foreach (var step in this.steps)
@@ -81,7 +81,7 @@ namespace Full_GRASP_And_SOLID
         {
             get{ return this.Cooked; }
         }
-        public void Cook() //Creator
+        public void Cook() //Creator ya que esta clase crea instancias de otras clases
         {
             int cooking_Time = this.GetCookTime();
             CountdownTimer timercd = new CountdownTimer();
