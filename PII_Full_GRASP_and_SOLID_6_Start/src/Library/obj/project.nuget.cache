@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWeZslM/1tgH+SXHYLzT9JWtmDe4epb3PLeWlNfGMGnY1xS/WhhqtQUTOgB8k1mYA51A+uHJbQuENgCeEW88rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jessica Mora\\OneDrive\\Escritorio\\PII_Full_GRASP_and_SOLID_6_Start\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jessica Mora\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Jessica Mora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Jessica Mora\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

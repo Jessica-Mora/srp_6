@@ -1,0 +1,5 @@
+C:\Users\Jessica Mora\OneDrive\Escritorio\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net6.0\Full_GRASP_And_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Mora\OneDrive\Escritorio\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net6.0\Full_GRASP_And_SOLID.AssemblyInfoInputs.cache
+C:\Users\Jessica Mora\OneDrive\Escritorio\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net6.0\Full_GRASP_And_SOLID.AssemblyInfo.cs
+C:\Users\Jessica Mora\OneDrive\Escritorio\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net6.0\Full_GRASP_And_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Mora\OneDrive\Escritorio\PII_Full_GRASP_and_SOLID_6_Start\src\Library\obj\Debug\net6.0\Full_GRASP_And_SOLID.sourcelink.json
